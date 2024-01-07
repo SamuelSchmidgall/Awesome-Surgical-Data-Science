@@ -1,10 +1,9 @@
+
 <p align="center">
   <br>
-    <img src="surgical_datasci.png" width="150"/>
+    <img src="surgical_datasci.png" width="550"/>
   <br>
 </p>
-
-# Awesome Surgical Data Science Papers [![Awesome](SOMETHING HERE)](https://github.com/SamuelSchmidgall/Awesome-Surgical-Data-Science) 
 
 > A curated list of [reviews/perspectives](https://github.com/SamuelSchmidgall/Awesome-Surgical-Data-Science#reviews) and [technical papers](https://github.com/SamuelSchmidgall/Awesome-Surgical-Data-Science#papers) from the intersection of surgery and data science.
 
