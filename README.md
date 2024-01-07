@@ -32,8 +32,9 @@ Garrow, C. R., Kowalewski, K. F., Li, L., Wagner, M., Schmidt, M. W., Engelhardt
 
 Bates, D. W., Levine, D., Syrowatka, A., Kuznetsova, M., Craig, K. J. T., Rui, A., ... & Rhee, K. (2021). [**The potential of artificial intelligence to improve patient safety: a scoping review.**](https://www.nature.com/articles/s41746-021-00423-6.pdf) NPJ digital medicine, 4(1), 54.
 
-Vedula, S. S., & Hager, G. D. (2017). [**Surgical data science: the new knowledge domain.**](https://www.degruyter.com/document/doi/10.1515/iss-2017-0004/html) Innovative surgical sciences, 2(3), 109-121.
+Hashimoto, D. A., Rosman, G., Rus, D., & Meireles, O. R. (2018). [**Artificial intelligence in surgery: promises and perils.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995666/) Annals of surgery, 268(1), 70.
 
+Vedula, S. S., & Hager, G. D. (2017). [**Surgical data science: the new knowledge domain.**](https://www.degruyter.com/document/doi/10.1515/iss-2017-0004/html) Innovative surgical sciences, 2(3), 109-121.
 
 
 
@@ -45,13 +46,23 @@ Scheikl, P. M., Gyenes, B., Younis, R., Haas, C., Neumann, G., Wagner, M., & Mat
 
 Schmidgall, S., Krieger, A., & Eshraghian, J. (2023). Surgical Gym: [**A high-performance GPU-based platform for reinforcement learning with surgical robots**](https://arxiv.org/pdf/2310.04676.pdf). arXiv preprint arXiv:2310.04676.
 
+Scheikl, P. M., Tagliabue, E., Gyenes, B., Wagner, M., Dall'Alba, D., Fiorini, P., & Mathis-Ullrich, F. (2022). [**Sim-to-real transfer for visual reinforcement learning of deformable object manipulation for robot-assisted surgery.**](https://ieeexplore.ieee.org/document/9976185) IEEE Robotics and Automation Letters, 8(2), 560-567.
+
 Tang, W., He, F., Liu, Y., & Duan, Y. (2022). [**MATR: Multimodal medical image fusion via multiscale adaptive transformer.**](https://pubmed.ncbi.nlm.nih.gov/35901003/) IEEE Transactions on Image Processing, 31, 5134-5149.
+
+Gao, X., Jin, Y., Dou, Q., & Heng, P. A. (2020, May). [**Automatic gesture recognition in robot-assisted surgery with reinforcement learning and tree search.**](https://ieeexplore.ieee.org/document/9196674) In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8440-8446). IEEE.
 
 Gao, X., Jin, Y., Long, Y., Dou, Q., & Heng, P. A. (2021). [**Trans-svnet: Accurate phase recognition from surgical videos via hybrid embedding aggregation transformer.**](https://arxiv.org/pdf/2103.09712.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24 (pp. 593-603). Springer International Publishing.
 
+Barnoy, Y., O'Brien, M., Wang, W., & Hager, G. (2021). [**Robotic surgery with lean reinforcement learning.**](https://arxiv.org/pdf/2105.01006.pdf) arXiv preprint arXiv:2105.01006.
+
 Czempiel, T., Paschali, M., Ostler, D., Kim, S. T., Busam, B., & Navab, N. (2021). [**Opera: Attention-regularized transformers for surgical phase recognition.**](https://arxiv.org/pdf/2103.03873.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24 (pp. 604-614). Springer International Publishing.
 
+Liu, D., & Jiang, T. (2018). [**Deep reinforcement learning for surgical gesture segmentation and classification.**](https://arxiv.org/pdf/1806.08089.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2018: 21st International Conference, Granada, Spain, September 16-20, 2018, Proceedings, Part IV 11 (pp. 247-255). Springer International Publishing.
+
 Garcia-Peraza-Herrera, L. C., Li, W., Fidon, L., Gruijthuijsen, C., Devreker, A., Attilakos, G., ... & Ourselin, S. (2017, September). [**Toolnet: holistically-nested real-time segmentation of robotic surgical tools.**](https://arxiv.org/pdf/1706.08126.pdf) In 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5717-5722). IEEE.
+
+Thananjeyan, B., Garg, A., Krishnan, S., Chen, C., Miller, L., & Goldberg, K. (2017, May). [**Multilateral surgical pattern cutting in 2D orthotropic gauze with deep reinforcement learning policies for tensioning.**](https://ieeexplore.ieee.org/document/7989275) In 2017 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2371-2378). IEEE.
 
 
 
