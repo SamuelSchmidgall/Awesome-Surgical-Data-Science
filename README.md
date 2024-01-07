@@ -68,6 +68,8 @@ Czempiel, T., Paschali, M., Ostler, D., Kim, S. T., Busam, B., & Navab, N. (2021
 
 Vercauteren, T., Unberath, M., Padoy, N., & Navab, N. (2019). [**Cai4cai: the rise of contextual artificial intelligence in computer-assisted interventions.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8880624) Proceedings of the IEEE, 108(1), 198-214.
 
+Yu, F., Croso, G. S., Kim, T. S., Song, Z., Parker, F., Hager, G. D., ... & Sikder, S. (2019). [**Assessment of automated identification of phases in videos of cataract surgery using machine learning and deep learning techniques.**](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729808) JAMA network open, 2(4), e191860-e191860.
+
 Richter, F., Orosco, R. K., & Yip, M. C. (2019). [**Open-sourced reinforcement learning environments for surgical robotics.**](https://arxiv.org/pdf/1903.02090.pdf) arXiv preprint arXiv:1903.02090.
 
 Liu, D., & Jiang, T. (2018). [**Deep reinforcement learning for surgical gesture segmentation and classification.**](https://arxiv.org/pdf/1806.08089.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2018: 21st International Conference, Granada, Spain, September 16-20, 2018, Proceedings, Part IV 11 (pp. 247-255). Springer International Publishing.
@@ -85,6 +87,16 @@ Ahmidi, N., Tao, L., Sefati, S., Gao, Y., Lea, C., Haro, B. B., ... & Hager, G. 
 Thananjeyan, B., Garg, A., Krishnan, S., Chen, C., Miller, L., & Goldberg, K. (2017, May). [**Multilateral surgical pattern cutting in 2D orthotropic gauze with deep reinforcement learning policies for tensioning.**](https://ieeexplore.ieee.org/document/7989275) In 2017 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2371-2378). IEEE.
 
 Ahmidi, N., Tao, L., Sefati, S., Gao, Y., Lea, C., Haro, B. B., ... & Hager, G. D. (2017). [**A dataset and benchmarks for segmentation and recognition of gestures in robotic surgery.**](https://ieeexplore.ieee.org/document/7805258) IEEE Transactions on Biomedical Engineering, 64(9), 2025-2041.
+
+DiPietro, R., Lea, C., Malpani, A., Ahmidi, N., Vedula, S. S., Lee, G. I., ... & Hager, G. D. (2016). [**Recognizing surgical activities with recurrent neural networks.**](https://arxiv.org/pdf/1606.06329.pdf) In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2016: 19th International Conference, Athens, Greece, October 17-21, 2016, Proceedings, Part I 19 (pp. 551-558). Springer International Publishing.
+
+Zappella, L., Béjar, B., Hager, G., & Vidal, R. (2013). [**Surgical gesture classification from video and kinematic data.**](http://vision.jhu.edu/assets/ZappellaMedIA13.pdf) Medical image analysis, 17(7), 732-745.
+
+Padoy, N., & Hager, G. D. (2011, May). [**Human-machine collaborative surgery using learned models.**](https://www.cs.jhu.edu/~padoy/media/pubs/padoy-ICRA2011-web.pdf) In 2011 IEEE International Conference on Robotics and Automation (pp. 5285-5292). IEEE.
+
+Reiley, C. E., Plaku, E., & Hager, G. D. (2010, August). [**Motion generation of robotic surgical tasks: Learning from expert demonstrations.**](https://cs.gmu.edu/~plaku/papers/PaperEMBS10.pdf) In 2010 Annual international conference of the IEEE engineering in medicine and biology (pp. 967-970). IEEE.
+
+Varadarajan, B., Reiley, C., Lin, H., Khudanpur, S., & Hager, G. (2009). [**Data-derived models for segmentation with application to surgical assessment and training.**](https://d1wqtxts1xzle7.cloudfront.net/78927806/978-3-642-04268-3_53-libre.pdf?1642389939=&response-content-disposition=inline%3B+filename%3DData_derived_models_for_segmentation_wit.pdf&Expires=1704602010&Signature=Ac3JWQ0u8iul2YpMdx2jpLuX42VkLiJZirAIWWac~MBhw7rwfVfr8uyubddBOSGYS9wifxOYtjErMPZpN8NyJ2lOTDIDFYcaHV4lNnpUBcby5jM5S2iHYVq75sAQI4AI94nipsa97cuypy894bL-dbV--YqaSFgqm-lJxYPTjTTd0G4Fjl~xXrm8nZCjyatCyB3Ds0gr1MaMG-uOrU61LoP9NT2Dak0rWhhvW16XXNvE2FwnaWC53Xqa1YS05rIdOds8RKWO0vHbhca1-m18pzTrcCCXtEuEp4W4yRzEAvJavvAe26UECkJ2WCCZ-GXv6v3WKEFfFdIhxnmf6n7rog__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2009: 12th International Conference, London, UK, September 20-24, 2009, Proceedings, Part I 12 (pp. 426-434). Springer Berlin Heidelberg.
 
 Lin, H. C., Shafran, I., Yuh, D., & Hager, G. D. (2006). [**Towards automatic skill evaluation: Detection and segmentation of robot-assisted surgical motions.**](https://www.tandfonline.com/doi/full/10.3109/10929080600989189) Computer aided surgery, 11(5), 220-230.
 
