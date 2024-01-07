@@ -1,7 +1,7 @@
 
 <p align="center">
   <br>
-    <img src="surgical_datasci.png" width="550"/>
+    <img src="surgical_datasci.png"/>
   <br>
 </p>
 
@@ -26,10 +26,18 @@ Garrow, C. R., Kowalewski, K. F., Li, L., Wagner, M., Schmidt, M. W., Engelhardt
 # Papers
 
 
+
+## Surgical Reinforcement Learning
+Scheikl, P. M., Gyenes, B., Younis, R., Haas, C., Neumann, G., Wagner, M., & Mathis-Ullrich, F. (2023). [**LapGym--An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery**](https://arxiv.org/pdf/2302.09606.pdf). arXiv preprint arXiv:2302.09606.
+
+Schmidgall, S., Krieger, A., & Eshraghian, J. (2023). Surgical Gym: [**A high-performance GPU-based platform for reinforcement learning with surgical robots**](https://arxiv.org/pdf/2310.04676.pdf). arXiv preprint arXiv:2310.04676.
+
+
+
+
 # Surgical sub-fields
 
 Adida, S., Legarreta, A. D., Hudson, J. S., McCarthy, D., Andrews, E., Shanahan, R., ... & Gerszten, P. C. (2022). [**Machine Learning in Spine Surgery: A Narrative Review.**](https://journals.lww.com/neurosurgery/abstract/2024/01000/machine_learning_in_spine_surgery__a_narrative.7.aspx) Neurosurgery, 10-1227.
-
 
 
 ** Tempalate from Awesome NeuroAI Papers
