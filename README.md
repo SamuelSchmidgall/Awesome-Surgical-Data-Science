@@ -108,9 +108,5 @@ Li, B., Feridooni, T., Cuen-Ojeda, C., Kishibe, T., de Mestral, C., Mamdani, M.,
 
 Buchlak, Q. D., Esmaili, N., Leveque, J. C., Farrokhi, F., Bennett, C., Piccardi, M., & Sethi, R. K. (2020). [**Machine learning applications to clinical decision support in neurosurgery: an artificial intelligence augmented systematic review.**](https://link.springer.com/article/10.1007/s10143-019-01163-8) Neurosurgical review, 43, 1235-1253.
 
-
-
-# Github Repositories
-
 ** Tempalate from Awesome NeuroAI Papers
 
