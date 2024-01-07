@@ -48,7 +48,15 @@ Schmidgall, S., Krieger, A., & Eshraghian, J. (2023). Surgical Gym: [**A high-pe
 
 Scheikl, P. M., Tagliabue, E., Gyenes, B., Wagner, M., Dall'Alba, D., Fiorini, P., & Mathis-Ullrich, F. (2022). [**Sim-to-real transfer for visual reinforcement learning of deformable object manipulation for robot-assisted surgery.**](https://ieeexplore.ieee.org/document/9976185) IEEE Robotics and Automation Letters, 8(2), 560-567.
 
+Wang, Y., Long, Y., Fan, S. H., & Dou, Q. (2022, September). [Neural rendering for stereo 3d reconstruction of deformable tissues in robotic surgery.**](https://arxiv.org/pdf/2206.15255.pdf) In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 431-441). Cham: Springer Nature Switzerland.
+
 Tang, W., He, F., Liu, Y., & Duan, Y. (2022). [**MATR: Multimodal medical image fusion via multiscale adaptive transformer.**](https://pubmed.ncbi.nlm.nih.gov/35901003/) IEEE Transactions on Image Processing, 31, 5134-5149.
+
+Lu, J., Jayakumari, A., Richter, F., Li, Y., & Yip, M. C. (2021, May). [**Super deep: A surgical perception framework for robotic tissue manipulation using deep learning for feature extraction.**](https://arxiv.org/pdf/2003.03472.pdf) In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 4783-4789). IEEE.
+
+Chiu, Z. Y., Richter, F., Funk, E. K., Orosco, R. K., & Yip, M. C. (2021, May). [**Bimanual regrasping for suture needles using reinforcement learning for rapid motion planning.**](https://arxiv.org/pdf/2011.04813.pdf) In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 7737-7743). IEEE.
+
+Li, Y., Richter, F., Lu, J., Funk, E. K., Orosco, R. K., Zhu, J., & Yip, M. C. (2020). [**Super: A surgical perception framework for endoscopic tissue manipulation with surgical robotics.**](https://ieeexplore.ieee.org/ielaam/7083369/8932682/8977357-aam.pdf) IEEE Robotics and Automation Letters, 5(2), 2294-2301.
 
 Gao, X., Jin, Y., Dou, Q., & Heng, P. A. (2020, May). [**Automatic gesture recognition in robot-assisted surgery with reinforcement learning and tree search.**](https://ieeexplore.ieee.org/document/9196674) In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8440-8446). IEEE.
 
@@ -58,14 +66,27 @@ Barnoy, Y., O'Brien, M., Wang, W., & Hager, G. (2021). [**Robotic surgery with l
 
 Czempiel, T., Paschali, M., Ostler, D., Kim, S. T., Busam, B., & Navab, N. (2021). [**Opera: Attention-regularized transformers for surgical phase recognition.**](https://arxiv.org/pdf/2103.03873.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24 (pp. 604-614). Springer International Publishing.
 
+Vercauteren, T., Unberath, M., Padoy, N., & Navab, N. (2019). [**Cai4cai: the rise of contextual artificial intelligence in computer-assisted interventions.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8880624) Proceedings of the IEEE, 108(1), 198-214.
+
+Richter, F., Orosco, R. K., & Yip, M. C. (2019). [**Open-sourced reinforcement learning environments for surgical robotics.**](https://arxiv.org/pdf/1903.02090.pdf) arXiv preprint arXiv:1903.02090.
+
 Liu, D., & Jiang, T. (2018). [**Deep reinforcement learning for surgical gesture segmentation and classification.**](https://arxiv.org/pdf/1806.08089.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2018: 21st International Conference, Granada, Spain, September 16-20, 2018, Proceedings, Part IV 11 (pp. 247-255). Springer International Publishing.
+
+Liu, X., Sinha, A., Unberath, M., Ishii, M., Hager, G. D., Taylor, R. H., & Reiter, A. (2018). [**Self-supervised Learning for Dense Depth Estimation in Monocular Endoscopy.**](https://www.researchgate.net/profile/Xingtong-Liu-3/publication/327768324_Self-supervised_Learning_for_Dense_Depth_Estimation_in_Monocular_Endoscopy/links/5ba411f892851ca9ed1a0b88/Self-supervised-Learning-for-Dense-Depth-Estimation-in-Monocular-Endoscopy.pdf) arXiv preprint arXiv:1806.09521.
+
+Bier, B., Unberath, M., Zaech, J. N., Fotouhi, J., Armand, M., Osgood, G., ... & Maier, A. (2018, September). [**X-ray-transform invariant anatomical landmark detection for pelvic trauma surgery.**](https://arxiv.org/pdf/1803.08608.pdf) In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 55-63). Cham: Springer International Publishing.
+
+Ye, M., Johns, E., Handa, A., Zhang, L., Pratt, P., & Yang, G. Z. (2017). [**Self-supervised siamese learning on stereo image pairs for depth estimation in robotic surgery.**](https://arxiv.org/pdf/1705.08260.pdf) arXiv preprint arXiv:1705.08260.
 
 Garcia-Peraza-Herrera, L. C., Li, W., Fidon, L., Gruijthuijsen, C., Devreker, A., Attilakos, G., ... & Ourselin, S. (2017, September). [**Toolnet: holistically-nested real-time segmentation of robotic surgical tools.**](https://arxiv.org/pdf/1706.08126.pdf) In 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5717-5722). IEEE.
 
+Ahmidi, N., Tao, L., Sefati, S., Gao, Y., Lea, C., Haro, B. B., ... & Hager, G. D. (2017). [**A dataset and benchmarks for segmentation and recognition of gestures in robotic surgery.**](https://ieeexplore.ieee.org/ielaam/10/8013177/7805258-aam.pdf) IEEE Transactions on Biomedical Engineering, 64(9), 2025-2041.
+
 Thananjeyan, B., Garg, A., Krishnan, S., Chen, C., Miller, L., & Goldberg, K. (2017, May). [**Multilateral surgical pattern cutting in 2D orthotropic gauze with deep reinforcement learning policies for tensioning.**](https://ieeexplore.ieee.org/document/7989275) In 2017 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2371-2378). IEEE.
 
+Ahmidi, N., Tao, L., Sefati, S., Gao, Y., Lea, C., Haro, B. B., ... & Hager, G. D. (2017). [**A dataset and benchmarks for segmentation and recognition of gestures in robotic surgery.**](https://ieeexplore.ieee.org/document/7805258) IEEE Transactions on Biomedical Engineering, 64(9), 2025-2041.
 
-
+Lin, H. C., Shafran, I., Yuh, D., & Hager, G. D. (2006). [**Towards automatic skill evaluation: Detection and segmentation of robot-assisted surgical motions.**](https://www.tandfonline.com/doi/full/10.3109/10929080600989189) Computer aided surgery, 11(5), 220-230.
 
 # Surgical sub-fields
 
