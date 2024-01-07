@@ -12,11 +12,11 @@ This list is providing an overview of recent publications from surgical data sci
 # Perspectives
 Schmidgall, S., Kim, J. W., Kuntz, A., Ghazi, A. E., & Krieger, A. [**General-purpose foundation models for increased autonomy in robot-assisted surgery**](https://arxiv.org/pdf/2401.00678.pdf). arXiv (2024)
 
-Zemmar, A., Lozano, A. M., & Nelson, B. J. (2020). [**The rise of robots in surgical environments during COVID-19.**](https://www.nature.com/articles/s42256-020-00238-2) Nature Machine Intelligence, 2(10), 566-572.
-
 Yip, M., Salcudean, S., Goldberg, K., Althoefer, K., Menciassi, A., Opfermann, J. D., ... & Lee, I. C. (2023). [**Artificial intelligence meets medical robotics.**](https://www.science.org/doi/10.1126/science.adj3312) Science, 381(6654), 141-146.
 
 Maier-Hein, L., Eisenmann, M., Sarikaya, D., März, K., Collins, T., Malpani, A., ... & Speidel, S. (2022). [**Surgical data science–from concepts toward clinical translation**](https://www.sciencedirect.com/science/article/pii/S1361841521003510). Medical image analysis, 76, 102306.
+
+Zemmar, A., Lozano, A. M., & Nelson, B. J. (2020). [**The rise of robots in surgical environments during COVID-19.**](https://www.nature.com/articles/s42256-020-00238-2) Nature Machine Intelligence, 2(10), 566-572.
 
 Maier-Hein, L., Vedula, S. S., Speidel, S., Navab, N., Kikinis, R., Park, A., ... & Jannin, P. (2017). [**Surgical data science for next-generation interventions**](https://www.nature.com/articles/s41551-017-0132-7). Nature Biomedical Engineering, 1(9), 691-696.
 
@@ -36,6 +36,7 @@ Vedula, S. S., & Hager, G. D. (2017). [**Surgical data science: the new knowledg
 
 
 
+
 # Papers
 
 Kiyasseh, D., Ma, R., Haque, T. F., Miles, B. J., Wagner, C., Donoho, D. A., ... & Hung, A. J. (2023). [**A vision transformer for decoding surgeon activity from surgical videos.**](https://www.nature.com/articles/s41551-023-01010-8) Nature Biomedical Engineering, 1-17.
@@ -43,6 +44,12 @@ Kiyasseh, D., Ma, R., Haque, T. F., Miles, B. J., Wagner, C., Donoho, D. A., ...
 Scheikl, P. M., Gyenes, B., Younis, R., Haas, C., Neumann, G., Wagner, M., & Mathis-Ullrich, F. (2023). [**LapGym--An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery**](https://arxiv.org/pdf/2302.09606.pdf). arXiv preprint arXiv:2302.09606.
 
 Schmidgall, S., Krieger, A., & Eshraghian, J. (2023). Surgical Gym: [**A high-performance GPU-based platform for reinforcement learning with surgical robots**](https://arxiv.org/pdf/2310.04676.pdf). arXiv preprint arXiv:2310.04676.
+
+Tang, W., He, F., Liu, Y., & Duan, Y. (2022). [**MATR: Multimodal medical image fusion via multiscale adaptive transformer.**](https://pubmed.ncbi.nlm.nih.gov/35901003/) IEEE Transactions on Image Processing, 31, 5134-5149.
+
+Gao, X., Jin, Y., Long, Y., Dou, Q., & Heng, P. A. (2021). [**Trans-svnet: Accurate phase recognition from surgical videos via hybrid embedding aggregation transformer.**](https://arxiv.org/pdf/2103.09712.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24 (pp. 593-603). Springer International Publishing.
+
+Czempiel, T., Paschali, M., Ostler, D., Kim, S. T., Busam, B., & Navab, N. (2021). [**Opera: Attention-regularized transformers for surgical phase recognition.**](https://arxiv.org/pdf/2103.03873.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24 (pp. 604-614). Springer International Publishing.
 
 Garcia-Peraza-Herrera, L. C., Li, W., Fidon, L., Gruijthuijsen, C., Devreker, A., Attilakos, G., ... & Ourselin, S. (2017, September). [**Toolnet: holistically-nested real-time segmentation of robotic surgical tools.**](https://arxiv.org/pdf/1706.08126.pdf) In 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5717-5722). IEEE.
 
