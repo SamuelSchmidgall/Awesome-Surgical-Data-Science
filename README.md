@@ -56,15 +56,15 @@ Lu, J., Jayakumari, A., Richter, F., Li, Y., & Yip, M. C. (2021, May). [**Super 
 
 Chiu, Z. Y., Richter, F., Funk, E. K., Orosco, R. K., & Yip, M. C. (2021, May). [**Bimanual regrasping for suture needles using reinforcement learning for rapid motion planning.**](https://arxiv.org/pdf/2011.04813.pdf) In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 7737-7743). IEEE.
 
-Li, Y., Richter, F., Lu, J., Funk, E. K., Orosco, R. K., Zhu, J., & Yip, M. C. (2020). [**Super: A surgical perception framework for endoscopic tissue manipulation with surgical robotics.**](https://ieeexplore.ieee.org/ielaam/7083369/8932682/8977357-aam.pdf) IEEE Robotics and Automation Letters, 5(2), 2294-2301.
-
-Gao, X., Jin, Y., Dou, Q., & Heng, P. A. (2020, May). [**Automatic gesture recognition in robot-assisted surgery with reinforcement learning and tree search.**](https://ieeexplore.ieee.org/document/9196674) In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8440-8446). IEEE.
-
 Gao, X., Jin, Y., Long, Y., Dou, Q., & Heng, P. A. (2021). [**Trans-svnet: Accurate phase recognition from surgical videos via hybrid embedding aggregation transformer.**](https://arxiv.org/pdf/2103.09712.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24 (pp. 593-603). Springer International Publishing.
 
 Barnoy, Y., O'Brien, M., Wang, W., & Hager, G. (2021). [**Robotic surgery with lean reinforcement learning.**](https://arxiv.org/pdf/2105.01006.pdf) arXiv preprint arXiv:2105.01006.
 
 Czempiel, T., Paschali, M., Ostler, D., Kim, S. T., Busam, B., & Navab, N. (2021). [**Opera: Attention-regularized transformers for surgical phase recognition.**](https://arxiv.org/pdf/2103.03873.pdf) In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24 (pp. 604-614). Springer International Publishing.
+
+Li, Y., Richter, F., Lu, J., Funk, E. K., Orosco, R. K., Zhu, J., & Yip, M. C. (2020). [**Super: A surgical perception framework for endoscopic tissue manipulation with surgical robotics.**](https://ieeexplore.ieee.org/ielaam/7083369/8932682/8977357-aam.pdf) IEEE Robotics and Automation Letters, 5(2), 2294-2301.
+
+Gao, X., Jin, Y., Dou, Q., & Heng, P. A. (2020, May). [**Automatic gesture recognition in robot-assisted surgery with reinforcement learning and tree search.**](https://ieeexplore.ieee.org/document/9196674) In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8440-8446). IEEE.
 
 Vercauteren, T., Unberath, M., Padoy, N., & Navab, N. (2019). [**Cai4cai: the rise of contextual artificial intelligence in computer-assisted interventions.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8880624) Proceedings of the IEEE, 108(1), 198-214.
 
