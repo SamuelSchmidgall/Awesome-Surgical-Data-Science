@@ -24,6 +24,8 @@ Maier-Hein, L., Vedula, S. S., Speidel, S., Navab, N., Kikinis, R., Park, A., ..
 
 # Reviews
 
+Ma, J., He, Y., Li, F., Han, L., You, C., Wang, B. [**Segment anything in medical images**](https://www.nature.com/articles/s41467-024-44824-z) Nature Communications 15, 654.
+
 Lam, K., Chen, J., Wang, Z., Iqbal, F. M., Darzi, A., Lo, B., ... & Kinross, J. M. (2022). [**Machine learning for technical skill assessment in surgery: a systematic review.**](https://www.nature.com/articles/s41746-022-00566-0) NPJ digital medicine, 5(1), 24.
 
 Zhang, Y., Weng, Y., & Lund, J. (2022). [**Applications of explainable artificial intelligence in diagnosis and surgery.**](https://pubmed.ncbi.nlm.nih.gov/35204328/) Diagnostics, 12(2), 237.
